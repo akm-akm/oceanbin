@@ -2,6 +2,9 @@
   "name": "oceanbin",
   "version": "1.0.0",
   "description": "backend for oceanbin, SIH.",
+  "engines": {
+    "node": ">=8.0.0"
+  },
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
